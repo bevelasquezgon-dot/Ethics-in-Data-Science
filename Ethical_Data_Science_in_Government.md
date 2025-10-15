@@ -3,6 +3,7 @@
 
 ---
 
+<h1 id="the-ethical-use-of-data-science-in-the-government">The Ethical use of Data Science in the Government</h1>
 <h2 id="abstract">Abstract</h2>
 <p>This ethical case study analysis examines the use of data science in the government, focusing on both its potential benefits and the ethical risks associated with it.  While data-driven technologies may enhance public policy, public services and decision-making, they also raise concerns related to privacy, bias, transparency and the autonomous behavior of AI systems. Key ethical issues include the potential for discriminatory outcomes and the risk of malicious or unintended uses of data for AI technology. This paper argues that the government should actively develop actionable frameworks to monitor AI behavior and manage the risks of misuse. Limitations of the ethical framework creating by article “Data science ethics in government” are also noted and recommendations are made.</p>
 <h2 id="article-summary">Article Summary</h2>
